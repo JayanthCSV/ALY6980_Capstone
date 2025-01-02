@@ -1,4 +1,4 @@
-### Project Summary: Buyer Folio Real Estate Agent Recommendation System
+### Project Summary: Real Estate Agent Analysis and Recommendation system
 
 #### Overview
 
