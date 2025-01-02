@@ -22,3 +22,7 @@ This project developed a personalized real estate agent recommendation system fo
 -   Delivered an actionable, user-friendly tool for agent matching.
 -   Enhanced fairness and transparency in agent selection.
 -   Provided recommendations based on robust analytics.
+
+#### Data Analysis (Looker)
+-  https://lookerstudio.google.com/u/0/reporting/9db1a3bb-3188-434b-8d9f-f177268c8373/page/HXgXE
+-  https://lookerstudio.google.com/u/0/reporting/fae070c4-f290-40be-a8f1-1c7e1367e0ed/page/IHhXE
